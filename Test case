@@ -20,6 +20,7 @@ import javax.swing.table.TableColumnModel;
 * JTable method
 *
 * @author John Stuart
+* Test success, returns no errors
 */
  
 public class Test
